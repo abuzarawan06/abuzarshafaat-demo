@@ -1,2 +1,3 @@
 # abuzarshafaat-demo
-blah blah blah
+This is my first Github Repo
+Author: Abuzar Shafaat
